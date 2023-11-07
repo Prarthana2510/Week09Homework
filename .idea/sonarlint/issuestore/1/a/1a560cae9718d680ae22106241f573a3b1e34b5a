@@ -1,0 +1,14 @@
+
+ƒ
+java:S1488"fImmediately return this expression instead of assigning it to the temporary variable "fuelEfficiency".(ø”¾8£è¸¯º1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ïÀÅŒùÿÿÿÿ8£è¸¯º1
+G	java:S106"+Replace this use of System.out by a logger.(ïÄö8¬è¸¯º1
+G	java:S106"+Replace this use of System.out by a logger.(¹íÎ8´è¸¯º1
+L	java:S106"+Replace this use of System.out by a logger.(—’¡ïúÿÿÿÿ8´è¸¯º1
+G	java:S106!"+Replace this use of System.out by a logger.(ùäÚ™8´è¸¯º1
+G	java:S106""+Replace this use of System.out by a logger.(ºÙ®8µè¸¯º1
+G	java:S106#"+Replace this use of System.out by a logger.(’ı”8µè¸¯º1
+G	java:S106%"+Replace this use of System.out by a logger.(€ç—8µè¸¯º1
+L	java:S106&"+Replace this use of System.out by a logger.(Áˆ°…şÿÿÿÿ8µè¸¯º1
+G	java:S106'"+Replace this use of System.out by a logger.(Åø‹‚8µè¸¯º1
+X	java:S125("<This block of commented-out lines of code should be removed.(ÔÅ“‘8µè¸¯º1

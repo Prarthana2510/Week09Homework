@@ -1,0 +1,15 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ïÀÅŒùÿÿÿÿ
+X
+java:S1854"BRemove this useless assignment to local variable "fuelEfficiency".(ø”¾
+I
+java:S1481"3Remove this unused "fuelEfficiency" local variable.(ø”¾
+C
+java:S1068
+"(Remove this unused "make" private field.(Ïæãùÿÿÿÿ
+D
+java:S1068")Remove this unused "model" private field.(³—öûÿÿÿÿ
+>
+java:S1068"(Remove this unused "year" private field.(¡‚ºð
+G
+java:S1068",Remove this unused "fuelType" private field.(·­Ž¢þÿÿÿÿ
