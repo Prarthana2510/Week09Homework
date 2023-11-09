@@ -20,18 +20,18 @@ public class Vehicle {
     }
 
     public double calculateFuelEfficiency() {
-        // Implement fuel efficiency calculation logic here
+
         double fuelEfficiency = calculateMaximumSpeed()/calculateDistanceTraveled();
         return 0.0;
     }
 
     public double calculateDistanceTraveled() {
-        // Implement distance traveled calculation logic here
+
         return 0.0;
     }
 
     public int calculateMaximumSpeed() {
-        // Implement maximum speed calculation logic here
+
         return 0;
     }
 }

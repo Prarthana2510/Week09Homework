@@ -21,7 +21,7 @@ public class Motorcycle extends Vehicle {
         return fuelEfficiency;
     }
 
-    public static void main(String[] args) {
+    /*public static void main(String[] args) {
         Truck truck = new Truck("Ford", "Transit", 2019, "Diesel");
         Car car = new Car("Mercedez-Benz", "Smart", 2004, "Petrol");
         Motorcycle motorcycle = new Motorcycle("Honda", "CBR600RR", 2023, "Gasoline");
@@ -40,5 +40,5 @@ public class Motorcycle extends Vehicle {
         //System.out.println(truck.calculateFuelEfficiency());
         //System.out.println(car.calculateFuelEfficiency());
         //System.out.println(motorcycle.calculateFuelEfficiency());
-    }
+    }*/
 }
